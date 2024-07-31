@@ -1,0 +1,3 @@
+async function collectMangroveRoots(bot) {
+    // The function is about collecting 5 mangrove roots. It checks if the player has enough mangrove roots in the inventory, and if not, it searches for and collects 5 mangrove roots by exploring the environment. Once the required amount is found, it mines the 5 mangrove roots and notifies the player of the successful collection. If enough mangrove roots are already in the inventory, it informs the player that there are sufficient roots available.
+}

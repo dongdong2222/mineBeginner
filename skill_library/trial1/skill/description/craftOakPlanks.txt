@@ -1,0 +1,3 @@
+async function craftOakPlanks(bot) {
+    // The function crafts oak planks by first checking the count of oak logs in the inventory. If there are less than 4 oak logs, it mines oak logs. After ensuring there are enough oak logs, it places a crafting table near the player and crafts oak planks using the crafting table; otherwise, it notifies the player of insufficient oak logs for crafting.
+}

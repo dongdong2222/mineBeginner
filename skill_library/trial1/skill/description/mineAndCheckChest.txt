@@ -1,0 +1,3 @@
+async function mineAndCheckChest(bot) {
+    // The function is about mining oak logs and checking a nearby chest. It first checks for the presence of a wooden axe in the inventory and crafts one by mining 3 wood logs if necessary. Then, it locates and mines 3 oak log blocks after exploring the environment. Subsequently, it searches for a chest nearby, moves towards it, opens the chest, and inspects the items inside.
+}

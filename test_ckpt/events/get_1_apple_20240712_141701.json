@@ -1,0 +1,109 @@
+[
+  [
+    "onError",
+    {
+      "onError": "Your code:4\nawait exploreUntil(bot, {\n exploreUntil is not defined\n",
+      "voxels": [
+        "stone",
+        "lime_wool",
+        "sand"
+      ],
+      "status": {
+        "health": 20,
+        "food": 20,
+        "saturation": 5,
+        "position": {
+          "x": 246.33514088431167,
+          "y": 82,
+          "z": 164.175
+        },
+        "velocity": {
+          "x": 0,
+          "y": -0.0784000015258789,
+          "z": 0
+        },
+        "yaw": 3.141592653589793,
+        "pitch": 0,
+        "onGround": true,
+        "equipment": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "name": "bot",
+        "isInWater": false,
+        "isInLava": false,
+        "isCollidedHorizontally": false,
+        "isCollidedVertically": true,
+        "biome": "desert",
+        "entities": {},
+        "timeOfDay": "noon",
+        "inventoryUsed": 0,
+        "elapsedTime": 20
+      },
+      "inventory": {},
+      "nearbyChests": {},
+      "blockRecords": [
+        "stone",
+        "lime_wool",
+        "sand"
+      ]
+    }
+  ],
+  [
+    "observe",
+    {
+      "voxels": [
+        "stone",
+        "lime_wool",
+        "sand"
+      ],
+      "status": {
+        "health": 20,
+        "food": 20,
+        "saturation": 5,
+        "position": {
+          "x": 246.33514088431167,
+          "y": 82,
+          "z": 164.175
+        },
+        "velocity": {
+          "x": 0,
+          "y": -0.0784000015258789,
+          "z": 0
+        },
+        "yaw": 3.141592653589793,
+        "pitch": 0,
+        "onGround": true,
+        "equipment": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "name": "bot",
+        "isInWater": false,
+        "isInLava": false,
+        "isCollidedHorizontally": false,
+        "isCollidedVertically": true,
+        "biome": "desert",
+        "entities": {},
+        "timeOfDay": "noon",
+        "inventoryUsed": 0,
+        "elapsedTime": 40
+      },
+      "inventory": {},
+      "nearbyChests": {},
+      "blockRecords": [
+        "stone",
+        "lime_wool",
+        "sand"
+      ]
+    }
+  ]
+]
